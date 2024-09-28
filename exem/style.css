@@ -1,0 +1,20 @@
+/* home page css */
+button:hover{
+    border-radius: 100px;
+    background-color: red;
+    color: black;
+    border-radius: 50px;
+    transition: 2s;
+    font-size: larger;
+}
+/* home page css */
+
+body{
+    background-image: url(./img/images.jpg);
+    width: 100vw; 
+    height: 100vh; 
+   
+    
+    
+}
+
